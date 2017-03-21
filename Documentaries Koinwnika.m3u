@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Η ΑΠΑΓΟΡΕΥΜΕΝΗ ΕΚΠΑΙΔΕΥΣΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=6RNRRqybUpE
+
 #EXTINF:1,ΟΙΚΟΝΟΜΙΚΕΣ ΚΡΙΣΕΙΣ ΤΗΣ ΕΛΛΑΔΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=QnFLz0kkvcc
 
