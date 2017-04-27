@@ -2,40 +2,58 @@
 
 #EXTM3U
 
-#EXTINF:1,Η ΑΠΑΓΟΡΕΥΜΕΝΗ ΕΚΠΑΙΔΕΥΣΗ
+#EXTINF:1,Τραγωδία Στον Αέρα - Η Πτήση 370 Των Μαλαισιανών Αερογραμμών
+plugin://plugin.video.dailymotion_com/?url=x2k5npkmode=playVideo
+
+#EXTINF:1,Τραγωδία Στον Αέρα - Fire Fight
+plugin://plugin.video.dailymotion_com/?url=x2k6415&mode=playVideo
+
+#EXTINF:1,Τραγωδία Στον Αέρα - Μακελειό Μέσα Στην Πόλη
+plugin://plugin.video.dailymotion_com/?url=x2pfox5&mode=playVideo
+
+#EXTINF:1,Τραγωδία Στον Αέρα - Θάνατος Στην Ναριτά
+plugin://plugin.video.dailymotion_com/?url=x2o1o98&mode=playVideo
+
+#EXTINF:1,Τραγωδία Στον Αέρα - Στην Αναζήτηση Της Αμέλια Έρχαρντ
+plugin://plugin.video.dailymotion_com/?url=xrk8um&mode=playVideo
+
+#EXTINF:1,Τραγωδία Στον Αέρα - Munich Air Disaster
+plugin://plugin.video.dailymotion_com/?url=x3r0omi&mode=playVideo
+
+#EXTINF:1,Η Απαγορευμένη Εκπαίδευση
 plugin://plugin.video.youtube/?action=play_video&videoid=6RNRRqybUpE
 
-#EXTINF:1,ΟΙΚΟΝΟΜΙΚΕΣ ΚΡΙΣΕΙΣ ΤΗΣ ΕΛΛΑΔΑΣ
+#EXTINF:1,Οικονομικές Κρίσεις Της Ελλάδας
 plugin://plugin.video.youtube/?action=play_video&videoid=QnFLz0kkvcc
 
-#EXTINF:1,Η ΑΠΑΤΗ ΔΝΤ ΚΑΙ ΤΡΑΠΕΖΩΝ
+#EXTINF:1,Η Απάτη ΔΝΤ και Τραπεζών
 plugin://plugin.video.youtube/?action=play_video&videoid=bhJZN96hw5A
 
-#EXTINF:1,ΑΟΡΑΤΗ ΑΥΤΟΚΡΑΤΟΡΙΑ - ΝΕΑ ΠΑΓΚΟΣΜΙΑ ΤΑΞΗ
+#EXTINF:1,Αόρατη Αυτοκρατορία - Νέα Παγκόσμια Τάξη
 plugin://plugin.video.youtube/?action=play_video&videoid=-uJ9gK2hj5M
 
-#EXTINF:1,ΤΟ ΚΥΚΛΩΜΑ
+#EXTINF:1,Το Κύκλωμα
 plugin://plugin.video.youtube/?action=play_video&videoid=pIb2viM1KXY
 
-#EXTINF:1,Η ΚΡΙΣΗ ΜΕ ΑΠΛΑ ΛΟΓΙΑ
+#EXTINF:1,Η Κρίση Με Απλά Λόγια
 plugin://plugin.video.youtube/?action=play_video&videoid=KokluT5KZOQ
 
-#EXTINF:1,Η ΚΑΤΑΣΚΕΥΗ ΤΗΣ ΣΥΝΑΙΝΕΣΗΣ ΚΑΙ ΤΑ ΜΜΕ
+#EXTINF:1,Η Κατασκευή Της Συναίνεσης Και Των ΜΜΕ
 plugin://plugin.video.youtube/?action=play_video&videoid=fmqWu1zNV1w
 
-#EXTINF:1,Ο 4ος ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ
+#EXTINF:1,Ο 4ος Παγκόσμιος Πόλεμος
 plugin://plugin.video.youtube/?action=play_video&videoid=v=A1RqyvsbjgA
 
-#EXTINF:1,ΤΟ ΧΡΗΜΑ. ΓΙΑΤΙ ΛΕΙΠΕΙ ΑΠΟ ΠΑΝΤΟΥ;
+#EXTINF:1,Το Χρήμα. Γιατί Λείπει Απο Παντού;
 plugin://plugin.video.youtube/?action=play_video&videoid=yC0tmnyAYtc
 
-#EXTINF:1,ΤΟ ΜΕΓΑΛΟ ΞΕΠΟΥΛΗΜΑ
+#EXTINF:1,Το Μεγάλο Ξεπούλημα
 plugin://plugin.video.youtube/?action=play_video&videoid=ahs_cYMffZ4
 
-#EXTINF:1,ΧΡΕΟΚΡΑΤΙΑ
+#EXTINF:1,Χρεοκρατία
 plugin://plugin.video.youtube/?action=play_video&videoid=Q4oXfrXtEmE
 
-#EXTINF:1,ΣΤΑ ΙΧΝΗ ΤΗΣ ΤΡΟΙΚΑΣ
+#EXTINF:1,Στα Ίχνη Της Τρόικας
 plugin://plugin.video.youtube/?action=play_video&videoid=b-QOlvTOlJ0
 
 #EXTINF:1,ΤΡΑΠΕΖΑ ΤΗΣ ΕΛΛΑΔΟΣ: Η ΣΙΩΠΗ ΕΙΝΑΙ ΧΡΥΣΟΣ;
