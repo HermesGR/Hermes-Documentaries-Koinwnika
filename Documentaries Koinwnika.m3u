@@ -2,6 +2,27 @@
 
 #EXTM3U
 
+#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad | Drug Dealer
+plugin://plugin.video.dailymotion_com/?url=x2paxpn&mode=playVideo
+
+#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad - Money Run
+plugin://plugin.video.dailymotion_com/?url=x2nvvrj&mode=playVideo
+
+#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad | Prisoner Of Love
+plugin://plugin.video.dailymotion_com/?url=x2nml8z&mode=playVideo
+
+#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad | Shaudi Whisky Run 
+plugin://plugin.video.dailymotion_com/?url=x2nmfr8&mode=playVideo
+
+#EXTINF:1,Μυστήρια Εξαφάνιση του Helios 522 / Aircrash Unsolved The Mystery Of Helios 522 
+plugin://plugin.video.dailymotion_com/?url=xx0d0z&mode=playVideo
+
+#EXTINF:1,Air Crash Investigation | Miracle Escape
+plugin://plugin.video.dailymotion_com/?url=x2o1aj5&mode=playVideo
+
+#EXTINF:1,Air Crash Investigation | Titanic In The Sky
+plugin://plugin.video.dailymotion_com/?url=x2tfkwc&mode=playVideo
+
 #EXTINF:1,Τραγωδία Στον Αέρα - Η Πτήση 370 Των Μαλαισιανών Αερογραμμών
 plugin://plugin.video.dailymotion_com/?url=x2k5npk&mode=playVideo
 
