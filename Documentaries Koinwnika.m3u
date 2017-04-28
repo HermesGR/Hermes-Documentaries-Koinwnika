@@ -2,66 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad | Drug Dealer
-plugin://plugin.video.dailymotion_com/?url=x2paxpn&mode=playVideo
-
-#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad - Money Run
-plugin://plugin.video.dailymotion_com/?url=x2nvvrj&mode=playVideo
-
-#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad | Prisoner Of Love
-plugin://plugin.video.dailymotion_com/?url=x2nml8z&mode=playVideo
-
-#EXTINF:1,Προσωπικές Μαρτυρίες / Banged Up Abroad | Shaudi Whisky Run 
-plugin://plugin.video.dailymotion_com/?url=x2nmfr8&mode=playVideo
-
-#EXTINF:1,Μυστήρια Εξαφάνιση του Helios 522 / Aircrash Unsolved The Mystery Of Helios 522 
-plugin://plugin.video.dailymotion_com/?url=xx0d0z&mode=playVideo
-
-#EXTINF:1,Air Crash Investigation | Miracle Escape
-plugin://plugin.video.dailymotion_com/?url=x2o1aj5&mode=playVideo
-
-#EXTINF:1,Air Crash Investigation | Titanic In The Sky
-plugin://plugin.video.dailymotion_com/?url=x2tfkwc&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Η Πτήση 370 Των Μαλαισιανών Αερογραμμών
-plugin://plugin.video.dailymotion_com/?url=x2k5npk&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Θάνατος Στην Αρκτική
-plugin://plugin.video.dailymotion_com/?url=x2qzczl&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Fire Fight
-plugin://plugin.video.dailymotion_com/?url=x2k6415&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Μακελειό Μέσα Στην Πόλη
-plugin://plugin.video.dailymotion_com/?url=x2pfox5&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Μυστηριώδης Εξαφάνιση
-plugin://plugin.video.dailymotion_com/?url=x2i4vch&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Στην Αναζήτηση Της Αμέλια Έρχαρντ
-plugin://plugin.video.dailymotion_com/?url=xrk8um&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Invisible Plane
-plugin://plugin.video.dailymotion_com/?url=x2jhftb&mode=playVideo&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Munich Air Disaster
-plugin://plugin.video.dailymotion_com/?url=x3r0omi&mode=playVideo&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Fire Fight
-plugin://plugin.video.dailymotion_com/?url=x2k6415&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Μακελειό Μέσα Στην Πόλη
-plugin://plugin.video.dailymotion_com/?url=x2pfox5&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Θάνατος Στην Ναριτά
-plugin://plugin.video.dailymotion_com/?url=x2o1o98&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Στην Αναζήτηση Της Αμέλια Έρχαρντ
-plugin://plugin.video.dailymotion_com/?url=xrk8um&mode=playVideo
-
-#EXTINF:1,Τραγωδία Στον Αέρα - Munich Air Disaster
-plugin://plugin.video.dailymotion_com/?url=x3r0omi&mode=playVideo
-
 #EXTINF:1,Η Απαγορευμένη Εκπαίδευση
 plugin://plugin.video.youtube/?action=play_video&videoid=6RNRRqybUpE
 
