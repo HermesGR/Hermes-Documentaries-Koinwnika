@@ -2,6 +2,25 @@
 
 #EXTM3U
 
+
+#EXTINF:1,Κρατούμενος στο Μεξικό
+plugin://plugin.video.youtube/?action=play_video&videoid=rXroSKQVHWo
+
+#EXTINF:1,Βόρεια Κορέα - Τότε και Τώρα !!
+plugin://plugin.video.youtube/?action=play_video&videoid=o6CHQ8Ihu6c
+
+#EXTINF:1,Κολομβία - Η Διακίνηση της Κόκας.
+plugin://plugin.video.youtube/?action=play_video&videoid=pHtkQSnHWQk
+
+#EXTINF:1,Κολομβία - Τα Υποβρύχια της Κόκας.
+plugin://plugin.video.youtube/?action=play_video&videoid=bOFH7NqY6Xo
+
+#EXTINF:1,Απογονοι Των Ναζί
+plugin://plugin.video.youtube/?action=play_video&videoid=_R1ZoscinTo
+
+#EXTINF:1,Η Κοινότητα της Σιών
+plugin://plugin.video.youtube/?action=play_video&videoid=9l1wORFUie0
+
 #EXTINF:1,Η Απαγορευμένη Εκπαίδευση
 plugin://plugin.video.youtube/?action=play_video&videoid=6RNRRqybUpE
 
